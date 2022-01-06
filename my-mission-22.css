@@ -1,0 +1,39 @@
+#mission-in-flex{
+    display: flex;
+    
+}
+
+.mission-vision-goal img{
+    width: 60%;
+}
+.mission-vision-goal{
+     width: 33.3%;
+     padding-right: 5%;
+     padding-left: 5%;
+     box-shadow: 10px 10px 50px -20px rgba(0, 0, 0, 0.2) ;
+    
+    margin-right: 2%
+}
+#my-mission-2022{
+    padding-left: 12%;
+    padding-right: 7%;
+   
+}
+#mission{
+    background-color: rgb(197, 224, 236);
+    border-radius: 10px;
+}
+.vision{
+    background-color: rgb(233, 170, 170);
+    border-radius: 10px;
+}
+.goal{
+    background-color: rgb(233, 233, 151);
+    border-radius: 10px;
+}
+.orange-22{
+    color: tomato;
+}
+.my-mission-text{
+   text-align: center;
+}

@@ -1,0 +1,43 @@
+#discipline{
+     padding-left: 12%;
+    padding-right: 7%;
+    display: flex;
+}
+#discipline img{
+    width: 60%;
+    border-radius: 10px;
+}
+.discipline-text{
+text-align: center;
+font-weight: 900;
+font-size: 40px;
+}
+.discipline-red{
+    color: orangered;
+}
+.road-img{
+        width: 35%;
+   
+    padding-right: 10px;
+    
+}
+.road-text{
+    width: 65%;
+   
+    padding-right: 10px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    height: 110px;
+}
+.mission-color{
+    color: rgb(230, 218, 200);
+}
+.hard-work{
+    color: rgb(162, 243, 243);
+}
+.orange-222{
+    color: tomato;
+    font-size: 35px;
+}

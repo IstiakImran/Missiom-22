@@ -1,0 +1,19 @@
+#community{
+     display: flex;
+      padding-left: 12%;
+    
+}
+
+.community-text{
+  width: 55%;
+   
+    padding-right: 5% ;
+}
+.community-img{
+ width: 35%;
+   
+    padding-left: 2%;
+}
+#community img{
+    width: 60%;
+}

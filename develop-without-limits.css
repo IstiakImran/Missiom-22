@@ -1,0 +1,25 @@
+#develop-without-limits{
+    display: flex;
+    
+}
+#develop-without-limits img{
+    width: 60%;
+    
+}
+.dev-mesaure-img{
+     width: 35%;
+   
+    padding-right: 10px;
+}
+.dev-mesaure-text{
+     width: 65%;
+   
+    padding-right: 10px;
+}
+.read-document{
+   text-decoration: none;
+    background-image: linear-gradient( orangered, tomato);
+    padding: 10px 40px;
+    border-radius: 7px;
+    color: white;
+}

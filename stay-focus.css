@@ -1,0 +1,48 @@
+#header{
+    display: flex
+}
+.mission-colour{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+    padding-left: 12%;
+    padding-right: 7%;
+   
+}
+.half-width img{
+ width: 100%;
+ 
+ 
+}
+.header-hight{
+    height: 50px;
+}
+.explore-now-tab{
+    text-decoration: none;
+    background-image: linear-gradient( orangered, tomato);
+    padding: 10px 40px;
+    border-radius: 7px;
+    color: white;
+}
+.header-hight{
+    box-shadow: 10px 10px 50px -20px rgba(0, 0, 0, 0.2) ;
+    height: 800px;
+    
+}
+.stay{
+    font-weight: 900;
+    font-size: 65px;
+    padding-left: 7%;
+    
+}
+.headerpara{
+    font-size: 15px;
+}
+.stay-border{
+    
+   border-left: 10px solid;
+    border-radius: 4px;
+    border-image: linear-gradient( rgb(117, 255, 244), rgba(133, 240, 199, 0.842));
+    border-image-slice: 1;
+}
